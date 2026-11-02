@@ -1,0 +1,312 @@
+Welcome to Windhoek Municipality
+
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD EMPLOYEE
+===============================================
+Enter employee ID: Enter employee name: Enter basic salary: Enter housing allowance: Enter transport allowance: Enter tax: 
+Employee added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD EMPLOYEE
+===============================================
+Enter employee ID: Enter employee name: Enter basic salary: Enter housing allowance: Enter transport allowance: Enter tax: 
+Employee added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD EMPLOYEE
+===============================================
+Enter employee ID: An employee with ID 101 already exists.
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  EMPLOYEE LIST
+===============================================
+ID     Name                        Gross          Net
+---------------------------------------------------
+101    Maria                    23000.50     20500.50
+102    Simon                    20900.00     18900.00
+
+Total employees: 2
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SEARCH EMPLOYEE
+===============================================
+Enter employee ID: 
+Employee found at position 2.
+ID        : 102
+Name      : Simon
+Basic     : 17200.00
+Housing   : 2500.00
+Transport : 1200.00
+Tax       : 2000.00
+Gross     : 20900.00
+Net       : 18900.00
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SEARCH EMPLOYEE
+===============================================
+Enter employee ID: Employee not found.
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  EMPLOYEE SALARY CALCULATOR
+===============================================
+Enter basic salary: Enter housing allowance: Enter transport allowance: Enter tax: 
+Gross Salary: 12500.00
+Net Salary  : 11000.00
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  EMPLOYEE SALARY REPORT
+===============================================
+Number of employees   : 2
+Total gross payroll   : 43900.50
+Total net payroll     : 39400.50
+Average gross salary  : 21950.25
+Highest gross salary  : 23000.50 (Maria)
+Lowest gross salary   : 20900.00 (Simon)
+
+Gross salaries, lowest to highest:
+  Simon                    20900.00
+  Maria                    23000.50
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+Thank you for using MFMS.

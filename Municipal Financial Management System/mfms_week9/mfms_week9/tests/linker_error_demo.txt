@@ -1,0 +1,21 @@
+/usr/bin/ld: main.o: in function `main':
+main.c:(.text+0x281): undefined reference to `addEmployee'
+/usr/bin/ld: main.c:(.text+0x288): undefined reference to `listEmployees'
+/usr/bin/ld: main.c:(.text+0x28f): undefined reference to `searchEmployee'
+/usr/bin/ld: main.c:(.text+0x296): undefined reference to `salaryCalculator'
+/usr/bin/ld: reports.o: in function `grossOf':
+reports.c:(.text+0x38): undefined reference to `calculateGrossSalary'
+/usr/bin/ld: reports.o: in function `employeeReport':
+reports.c:(.text+0x5e): undefined reference to `getEmployeeCount'
+/usr/bin/ld: reports.c:(.text+0xa6): undefined reference to `getEmployee'
+/usr/bin/ld: reports.c:(.text+0xb7): undefined reference to `getEmployee'
+/usr/bin/ld: reports.c:(.text+0xda): undefined reference to `getEmployee'
+/usr/bin/ld: reports.c:(.text+0x11b): undefined reference to `calculateNetSalary'
+/usr/bin/ld: reports.c:(.text+0x1e6): undefined reference to `calculatePayrollTotal'
+/usr/bin/ld: reports.c:(.text+0x381): undefined reference to `getEmployee'
+/usr/bin/ld: reports.c:(.text+0x39b): undefined reference to `getEmployee'
+/usr/bin/ld: reports.c:(.text+0x410): undefined reference to `getEmployee'
+/usr/bin/ld: reports.o: in function `budgetReport':
+reports.c:(.text+0x780): undefined reference to `calculatePayrollTotal'
+collect2: error: ld returned 1 exit status
+exit=1

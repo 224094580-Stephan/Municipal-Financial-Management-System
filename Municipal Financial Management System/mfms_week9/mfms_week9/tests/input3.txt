@@ -1,0 +1,43 @@
+9
+Namib Builders
+info@namib.na
+061123456
+Windhoek
+
+9
+Coast Supplies
+sales@coast.na
+064987654
+Swakopmund
+
+10
+
+11
+Namib Builders
+
+11
+Nobody Ltd
+
+12
+Coast Supplies
+
+13
+Namib Builders
+850000
+900000
+1
+1
+
+13
+Coast Supplies
+950000
+900000
+1
+0
+
+16
+Windhoek Municipality
+Mayor Example
+430000
+
+0

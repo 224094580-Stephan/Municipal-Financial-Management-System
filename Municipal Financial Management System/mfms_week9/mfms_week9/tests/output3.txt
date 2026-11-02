@@ -1,0 +1,349 @@
+Welcome to Windhoek Municipality
+
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD SUPPLIER
+===============================================
+Enter supplier name: Enter email: Enter phone number: Enter town: 
+Supplier added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD SUPPLIER
+===============================================
+Enter supplier name: Enter email: Enter phone number: Enter town: 
+Supplier added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SUPPLIER DETAILS
+===============================================
+
+Supplier 1
+Name        : Namib Builders
+Email       : info@namib.na
+Phone       : 061123456
+Town        : Windhoek
+Description : Namib Builders operates in Windhoek.
+
+Supplier 2
+Name        : Coast Supplies
+Email       : sales@coast.na
+Phone       : 064987654
+Town        : Swakopmund
+Description : Coast Supplies operates in Swakopmund.
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SEARCH SUPPLIER
+===============================================
+Enter supplier name to search: 
+Supplier found!
+Name  : Namib Builders
+Email : info@namib.na
+Phone : 061123456
+Town  : Windhoek
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SEARCH SUPPLIER
+===============================================
+Enter supplier name to search: Supplier not found.
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SUPPLIER NAME LENGTH
+===============================================
+Enter supplier name: Supplier name length: 14 characters
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  TENDER EVALUATION
+===============================================
+Enter supplier name: Enter tender price: Enter available budget: Is supplier registered? (1=Yes, 0=No): Are all documents complete? (1=Yes, 0=No): 
+Supplier: Namib Builders
+Status  : Qualified
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  TENDER EVALUATION
+===============================================
+Enter supplier name: Enter tender price: Enter available budget: Is supplier registered? (1=Yes, 0=No): Are all documents complete? (1=Yes, 0=No): 
+Supplier: Coast Supplies
+Reason  : Documents are incomplete.
+Reason  : Tender price exceeds the available budget.
+Status  : Disqualified
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  MUNICIPALITY PROFILE
+===============================================
+Enter Municipality Name: Enter Mayor's Name: Enter Population: 
+===============================================
+  MUNICIPAL REPORT
+===============================================
+Municipality Name : Windhoek Municipality
+Mayor's Name      : Mayor Example
+Population        : 430000
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+Thank you for using MFMS.

@@ -1,0 +1,351 @@
+Welcome to Windhoek Municipality
+
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: Invalid input. Please enter a whole number.
+Enter choice: Please enter a number between 0 and 16.
+Enter choice: 
+===============================================
+  ADD EMPLOYEE
+===============================================
+Enter employee ID: Enter employee name: Enter basic salary: Enter housing allowance: Enter transport allowance: Enter tax: 
+Employee added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD DEPARTMENT BUDGET
+===============================================
+Enter department name: Enter budget amount: 
+Budget added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD DEPARTMENT BUDGET
+===============================================
+Enter department name: Enter budget amount: 
+Budget added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD DEPARTMENT BUDGET
+===============================================
+Enter department name: Enter budget amount: 
+Budget added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  DEPARTMENT BUDGETS
+===============================================
+No.  Department                         Budget
+-------------------------------------------------
+1    Roads                           500000.00
+2    Health                          750000.00
+3    Water                           300000.00
+
+Total Department Budget: 1550000.00
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  MUNICIPAL BUDGET CALCULATOR
+===============================================
+Enter total revenue: Enter total expenses: 
+Revenue : 2000000.00
+Expenses: 1500000.00
+Surplus : 500000.00
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  MUNICIPAL BUDGET CALCULATOR
+===============================================
+Enter total revenue: Enter total expenses: 
+Revenue : 1000.00
+Expenses: 1500.00
+Deficit : 500.00
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  VAT CALCULATOR
+===============================================
+Enter amount: 
+VAT rate : 15%
+VAT      : 150.00
+Total    : 1150.00
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  DEPARTMENT BUDGET REPORT
+===============================================
+Number of departments    : 3
+Total department budget  : 1550000.00
+Average department budget: 516666.67
+Highest budget           : 750000.00 (Health)
+Lowest budget            : 300000.00 (Water)
+
+Budgets, lowest to highest:
+  Water                        300000.00  (19.4%)
+  Roads                        500000.00  (32.3%)
+  Health                       750000.00  (48.4%)
+
+Payroll check (budget vs total gross payroll):
+  Total gross payroll: 26000.00
+  Surplus after payroll: 1524000.00
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+   0.  Exit
+===============================================
+Enter choice: 
+Thank you for using MFMS.
