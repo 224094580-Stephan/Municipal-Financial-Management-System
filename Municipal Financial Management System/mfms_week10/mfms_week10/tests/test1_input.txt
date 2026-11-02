@@ -1,0 +1,64 @@
+1
+101
+Maria Shikongo
+18500.50
+3000
+1500
+2500
+
+1
+102
+Simon Haufiku
+17200
+2500
+1200
+2000
+
+1
+103
+Bad|Name
+Ndapewa Amupolo
+15000
+1000
+800
+1200
+
+5
+Roads
+500000
+
+5
+Health
+750000
+
+9
+Namib Builders
+info@namib.na
+061123456
+Windhoek
+
+9
+Coast Supplies
+sales@coast.na
+064987654
+Swakopmund
+
+17
+1
+Grader Truck
+1250000
+
+17
+2
+Admin Building
+8400000
+
+19
+
+21
+
+24
+
+23
+
+0

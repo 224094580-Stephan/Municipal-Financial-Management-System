@@ -1,0 +1,353 @@
+Welcome to Windhoek Municipality
+
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD EMPLOYEE
+===============================================
+Enter employee ID: Enter employee name: Enter basic salary: Enter housing allowance: Enter transport allowance: Enter tax: 
+Employee added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  LOAD DATA (TEXT FILES)
+===============================================
+Loading replaces the records currently in memory.
+
+data/employees.txt: Is a directory
+  Employees  LOAD FAILED - memory unchanged.
+  Suppliers  no saved file yet (data/suppliers.txt) - memory unchanged.
+  Assets     no saved file yet (data/assets.txt) - memory unchanged.
+  Budgets    no saved file yet (data/budgets.txt) - memory unchanged.
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  LOAD EMPLOYEES (BINARY FILE)
+===============================================
+Loading replaces the employees currently in memory.
+
+data/employees.dat: Is a directory
+LOAD FAILED - memory unchanged.
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  EMPLOYEE LIST
+===============================================
+ID     Name                        Gross          Net
+---------------------------------------------------
+201    Test Person              10000.00      9500.00
+
+Total employees: 1
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  ADD DEPARTMENT BUDGET
+===============================================
+Enter department name: Enter budget amount: 
+Budget added successfully!
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SAVE DATA (TEXT FILES)
+===============================================
+data/employees.txt: Is a directory
+  Employees  SAVE FAILED.
+  Suppliers  nothing to save.
+  Assets     nothing to save.
+  Budgets    saved 1 record(s) to data/budgets.txt
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+===============================================
+  SAVE EMPLOYEES (BINARY FILE)
+===============================================
+data/employees.dat: Is a directory
+SAVE FAILED.
+
+Press Enter to continue...
+===============================================
+  MUNICIPAL FINANCIAL MANAGEMENT SYSTEM
+===============================================
+ EMPLOYEES
+   1.  Add Employee
+   2.  List Employees
+   3.  Search Employee
+   4.  Salary Calculator
+ BUDGET
+   5.  Add Department Budget
+   6.  List Department Budgets
+   7.  Budget Calculator (Revenue vs Expenses)
+   8.  VAT Calculator
+ SUPPLIERS
+   9.  Add Supplier
+   10. Display Suppliers
+   11. Search Supplier
+   12. Show Supplier Name Length
+   13. Tender Evaluation
+ REPORTS
+   14. Employee Salary Report
+   15. Department Budget Report
+   16. Municipality Profile
+ ASSETS
+   17. Add Asset
+   18. List Assets
+ DATA STORAGE
+   19. Save Data (text files)
+   20. Load Data (text files)
+   21. Save Employees (binary file)
+   22. Load Employees (binary file)
+   23. Backup Data
+   24. Compare Text vs Binary Employee Files
+   0.  Exit
+===============================================
+Enter choice: 
+Thank you for using MFMS.

@@ -1,0 +1,7 @@
+101|Maria Shikongo|18500.50|3000.00|1500.00|2500.00
+102|Simon Haufiku|17200.00|2500.00|1200.00|2000.00
+101|Duplicate Maria|1000|0|0|0
+abc|Broken Line
+
+103|Tax Too High|1000|0|0|5000
+104|Last Good|9000|500|500|700
